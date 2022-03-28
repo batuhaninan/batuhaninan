@@ -93,6 +93,6 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhaninan&show_icons=true&theme=dark&locale=en&layout=compact" alt="batuhaninan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhaninan&theme=radical&show_icons=true&locale=en&layout=compact&exclude_repo=dotfiles,PasswordManager" alt="batuhaninan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhaninan&show_icons=true&theme=dark&locale=en" alt="batuhaninan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhaninan&show_icons=true&theme=radical&include_all_commits=false&hide=stars&locale=en" alt="batuhaninan" /></p>
