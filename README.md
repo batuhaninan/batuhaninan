@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A software developer from Istanbul, Turkey</h3>
 
-- 🌱 I’m currently learning **React, NextJS, Spring Boot**
+- 🌱 I’m currently learning **Go, Kotlin, Haskell**
 
 
 <h3 align="left">Contact me:</h3>
